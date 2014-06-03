@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("Second line.");
 		System.out.println("Third line.");
 		System.out.println("Fourth line.");
+		System.out.println("5 line.");
 	}
 
 }
